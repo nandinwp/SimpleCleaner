@@ -1,0 +1,13 @@
+C:\Users\luyfe\source\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.vcxproj.AssemblyReference.cache
+C:\Users\luyfe\source\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\luyfe\source\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.AddKey.resources
+C:\Users\luyfe\source\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.Core.resources
+C:\Users\luyfe\source\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.Home.resources
+C:\Users\luyfe\source\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.vcxproj.GenerateResource.cache
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.vcxproj.AssemblyReference.cache
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.AddKey.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.Config.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.Core.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.Home.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.vcxproj.GenerateResource.cache
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\x64\Debug\SimpleCleaner.ShowMessage.resources

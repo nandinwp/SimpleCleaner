@@ -1,0 +1,75 @@
+﻿  AddKey.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(127,26): warning C4101: 'ex': variável local não referenciada
+  (compilando o arquivo fonte 'AddKey.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(158,16): warning C4244: 'return': conversão de '__int64' para 'long', possível perda de dados
+  (compilando o arquivo fonte 'AddKey.cpp')
+  
+  Config.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(127,26): warning C4101: 'ex': variável local não referenciada
+  (compilando o arquivo fonte 'Config.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(158,16): warning C4244: 'return': conversão de '__int64' para 'long', possível perda de dados
+  (compilando o arquivo fonte 'Config.cpp')
+  
+  Core.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(127,26): warning C4101: 'ex': variável local não referenciada
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(158,16): warning C4244: 'return': conversão de '__int64' para 'long', possível perda de dados
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(44,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(58,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(114,22): warning C4477: 'fscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'bool *'
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(115,22): warning C4477: 'fscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'bool *'
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(116,22): warning C4477: 'fscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'bool *'
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(117,22): warning C4477: 'fscanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'bool *'
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(112,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(114,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(115,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(116,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(117,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\FileManager.h(130,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Core.h(546,21): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+  (compilando o arquivo fonte 'Core.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Core.cpp(8,1): warning C4829: Parâmetros possivelmente incorretos para função main. Considere o uso de 'int main(Platform::Array<Platform::String^>^ argv)'
+  Home.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(127,26): warning C4101: 'ex': variável local não referenciada
+  (compilando o arquivo fonte 'Home.cpp')
+  
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\StaticClass.h(158,16): warning C4244: 'return': conversão de '__int64' para 'long', possível perda de dados
+  (compilando o arquivo fonte 'Home.cpp')
+  
+  Gerando Código...
+  About.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  SimpleCleaner.vcxproj -> G:\BACKUP\repos\SimpleCleaner\Release\SimpleCleaner.exe

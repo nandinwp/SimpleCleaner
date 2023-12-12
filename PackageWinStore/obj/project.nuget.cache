@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+42xJguIHbUbd/RbYOeUwU4WInEPUwlj5ArLIjOwnYTn+7w+oWmOPnmg5+7Cb8NU5dnUl764I1bsKRpdsx+Kiw==",
+  "success": true,
+  "projectFilePath": "G:\\BACKUP\\repos\\SimpleCleaner\\PackageWinStore\\PackageWinStore.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512"
+  ],
+  "logs": []
+}

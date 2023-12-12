@@ -1,0 +1,8 @@
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.vcxproj.AssemblyReference.cache
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.AddKey.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.Config.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.Core.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.Home.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.ShowMessage.resources
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.vcxproj.GenerateResource.cache
+G:\BACKUP\repos\SimpleCleaner\SimpleCleaner\Debug\SimpleCleaner.About.resources

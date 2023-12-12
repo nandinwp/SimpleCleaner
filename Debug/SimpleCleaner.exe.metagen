@@ -1,0 +1,89 @@
+  SimpleCleaner.About.resources - Embedded, ContainedInManifestFile, 
+  SimpleCleaner.AddKey.resources - Embedded, ContainedInManifestFile, 
+  SimpleCleaner.Config.resources - Embedded, ContainedInManifestFile, 
+  SimpleCleaner.Core.resources - Embedded, ContainedInManifestFile, 
+  SimpleCleaner.Home.resources - Embedded, ContainedInManifestFile, 
+  SimpleCleaner.ShowMessage.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly SimpleCleaner, Version=0.0.*, Culture=Idioma Invariável (País Invariável): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SimpleCleaner.About: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Logger: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LogInfo(String): PrivateScope, Public, Static, HideBySig
+    LogWarning(String): PrivateScope, Public, Static, HideBySig
+    LogCaution(String): PrivateScope, Public, Static, HideBySig
+    LogError(String): PrivateScope, Public, Static, HideBySig
+    LogCatastrophe(String): PrivateScope, Public, Static, HideBySig
+Class SimpleCleaner.ShowMessage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button btnAction : Public
+Class StaticClass: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Logger
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String aboutThis : Public, Static
+    SByte* SubChave : Public, Static
+  Methods:
+    getDirectoriesFromRegistry(SByte***, Int32*, SByte***): PrivateScope, Public, Static, HideBySig
+    getValuesFromRegistry(SByte*): PrivateScope, Public, Static, HideBySig
+    IsDirectory(SByte*): PrivateScope, Public, Static, HideBySig
+    DeleteRegistryValue(SByte*): PrivateScope, Public, Static, HideBySig
+    TotalSize(String): PrivateScope, Public, Static, HideBySig
+    ConvertSize(Int64, Double* IsImplicitlyDereferenced): PrivateScope, Public, Static, HideBySig
+    TotalSizeListaDiretorios(List`1): PrivateScope, Public, Static, HideBySig
+    DeleteDirectory(String): PrivateScope, Public, Static, HideBySig
+    WriteData(Stream): PrivateScope, Public, Static, HideBySig
+    ReadData(Stream): PrivateScope, Public, Static, HideBySig
+    Show(String, String, String, Int32): PrivateScope, Public, Static, HideBySig
+    AdicionarAoInicioDoWindows(): PrivateScope, Public, Static, HideBySig
+    RemoverDoInicioDoWindows(): PrivateScope, Public, Static, HideBySig
+Class Registro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IsRunAsAdmin(): PrivateScope, Public, HideBySig
+    Get_First_Use_status(): PrivateScope, Public, HideBySig
+    addDirectoryToRegistry(SByte*, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Set_atual_index(Int32): PrivateScope, Public, HideBySig
+    Set_First_Use(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Delete_this_index(Int32): PrivateScope, Public, HideBySig
+    Set_Atual_delete(Int32): PrivateScope, Public, HideBySig
+    Get_Atual_Index(): PrivateScope, Public, HideBySig
+    Get_Atual_delete(): PrivateScope, Public, HideBySig
+Class SimpleCleaner.AddKey: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SimpleCleaner.Config: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button btnAction : Public
+Class SimpleCleaner.Home: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Varrer(): PrivateScope, Public, HideBySig
+    Clear(): PrivateScope, Public, HideBySig
+Class SimpleCleaner.Core: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Core_Load(Object, EventArgs): PrivateScope, Public, HideBySig
+    OnMinimize(): PrivateScope, Public, HideBySig

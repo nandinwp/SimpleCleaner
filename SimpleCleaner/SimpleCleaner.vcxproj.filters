@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Services">
+      <UniqueIdentifier>{b4b083bf-d783-4221-ba70-44d95c1dc020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Interface">
+      <UniqueIdentifier>{a58f6e80-381b-415b-a12d-af133d8f7fff}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Core.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="FileManager.h">
+      <Filter>Arquivos de Cabeçalho\Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Registro.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="AddKey.h">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticClass.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Home.h">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerSettings.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowMessage.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="About.h">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Core.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Registro.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="AddKey.cpp">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Home.cpp">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowMessage.cpp">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClCompile>
+    <ClCompile Include="About.cpp">
+      <Filter>Arquivos de Cabeçalho\Interface</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
